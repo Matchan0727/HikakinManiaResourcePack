@@ -1,0 +1,9 @@
+{
+    "ui.button.click" : {
+        "replace": "true",
+        "category": "master",
+        "sounds": [
+            "random/click"
+        ]
+    }
+}
